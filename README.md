@@ -1,5 +1,5 @@
 h1 align = "center"> Hola 👋, soy Sheila Arenillas </h1>
-<h3 align = "center"> Una apasionada desarrolladora de frontend de India </h3>
+<h3 align = "center"> Una apasionada desarrolladora de frontend de España </h3>
 
 <h3 align = "left"> Conéctate conmigo: </h3>
 <p align = "left">
